@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933708976831",
+    "firebase_url": "https://vps1-5a475.firebaseio.com",
+    "project_id": "vps1-5a475",
+    "storage_bucket": "vps1-5a475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933708976831:android:7b56fecd0113e108",
+        "android_client_info": {
+          "package_name": "com.example.elitebook.vps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933708976831-4svnukskimlj7jso2sp7lbonjs9u9var.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DWqiXK1KAVEsNA-MaCmfRT52ui95ue8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933708976831-4svnukskimlj7jso2sp7lbonjs9u9var.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
